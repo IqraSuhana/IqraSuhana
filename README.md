@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqra</h1>
-<h3 align="center">A Geeky Front-end developer and data analyst.</h3>
+<h3 align="center">A Geeky Front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrasuhana&label=Profile%20views&color=0e75b6&style=flat" alt="iqrasuhana" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML, CSS, REACT.JS, Javacript,JAVA, PYTHON, C++**
+- 💬 Ask me about **REACT.JS, Javacript**
 
-- 📫 How to reach me **iqrasuhana77777@gmail.com**
+<!-->- 📫 How to reach me **iqrasuhana77777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
